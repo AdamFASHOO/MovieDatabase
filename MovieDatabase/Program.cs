@@ -12,7 +12,7 @@
             bool runAgain = true;
             while (runAgain)
             {
-                Movie starWars = new Movie("Star wars", "Scifi");
+                Movie starWars = new Movie("Star Wars", "Scifi");
                 Movie theMatrix = new Movie("The Matrix", "Scifi");
                 Movie interstellar = new Movie("Interstellar", "Scifi");
                 Movie hotRod = new Movie("Hot Rod", "Comedy");
